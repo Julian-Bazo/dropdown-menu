@@ -1,2 +1,2 @@
-# odin-todo-list
-A project to practice SOLID principles and module syntax.
+# Dropdown menu
+Module creation for a reusable drop down menu.
