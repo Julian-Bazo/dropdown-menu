@@ -1,4 +1,24 @@
 {
+  "name": "dropdown-menu",
+  "version": "1.0.0",
+  "description": "Quickly create dropdown menu buttons using correct class names",
+  "main": "dropdown.js",
+  "exports": "./dropdown.js",
+  "files": [
+    "dropdown.js",
+    "README.md",
+    "LICENSE"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Julian-Bazo/dropdown-menu.git"
+  },
+  "keywords": [],
+  "author": "Julian-Bazo <Julian.Bazo27@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Julian-Bazo/dropdown-menu#",
+
   "devDependencies": {
     "@eslint/js": "^9.34.0",
     "css-loader": "^7.1.2",
