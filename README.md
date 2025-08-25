@@ -12,7 +12,7 @@ Example of how to use:
         <div class="dropdown">
             <button class="dropdown-button">Hover me!</button>
                 <div class="dropdown-items">
-                    <button">Edit</button>
-                    <button">Copy</button>
-                    <button">Delete</button>
+                    <button>Edit</button>
+                    <button>Copy</button>
+                    <button>Delete</button>
                 </div>
